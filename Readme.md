@@ -1,4 +1,3 @@
-# **Project Title:**
 ## BMI Calculator using Streamlit
 ![project_wallpaper](https://github.com/user-attachments/assets/77981fd4-feba-4ab4-8cf6-10f792135c87)
 
